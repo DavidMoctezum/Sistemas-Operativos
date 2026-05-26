@@ -1,4 +1,3 @@
-# Sistemas-Operativos
 # nginx-php
 # TECNOLÓGICO DE ESTUDIOS SUPERIORES DEL ORIENTE DEL ESTADO DE MÉXICO
 # Implementación de servidor nginx y php compilados desde código fuente
